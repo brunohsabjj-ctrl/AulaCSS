@@ -19,8 +19,8 @@ div
 }
 h3
 {
-    color: aqua;
-    background-color: blue;
+    color: blue ;
+    border: solid 2px aqua;
     
 }
 .negrito
@@ -40,4 +40,20 @@ h3
 .sublinhado
 {
     text-decoration: underline;
+}
+.destaque
+{
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;    
+}
+.cursiva
+{
+    font-family:"Lucida Handwriting";
+    font-size: 20px;
+    color: blue;
+}
+.google
+{
+    /*Cada aluno deve colocar sua preferencia de fonte*/
+    font-family: 'Alumni Sans';font-size: 22px;
 }
