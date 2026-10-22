@@ -60,3 +60,27 @@ justify-content: space-around;
  display: flex;
  justify-content: space-between;
 }
+.exemplo2
+{
+    border: 1px solid green;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 200px;
+}
+.meio
+{
+    display: flex;
+    align-items:center;
+}
+.topo
+{
+    display: flex;
+    align-items:flex-start;
+
+}
+.rodape
+{
+    display: flex;
+    align-items: flex-end;
+}
