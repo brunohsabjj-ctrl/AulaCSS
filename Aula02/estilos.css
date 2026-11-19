@@ -123,11 +123,33 @@ justify-content: space-between;
 .menu
 {
     background-color: green;
-    height: 50px;
+    height: 100px;
     display: flex;
-   color: blue;
+   color: lightgreen;
    font-size: 25px;
-
+    justify-content: space-around;
+}
+.opçoes
+{
+   display: flex; 
+   
 }
 
+.menu_img
+{
+    height: 95px;
+}
 
+    .opcoes_a
+{
+ color: whitesmoke;
+ text-decoration:none ;
+ margin: 10px;
+
+}
+.opçoes_a:hover
+{
+    color: green;
+    background-color: greenyellow;
+    text-decoration: underline;
+}
